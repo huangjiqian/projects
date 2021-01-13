@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2a243da-2fe1-4972-8011-6e8577b342f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../资料/LVS HA/高并发与负载均衡.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../资料/LVS HA/高并发与负载均衡.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../资料/jvm/03_01_JMM.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../资料/jvm/03_01_JMM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../资料/jvm/05_GC and Tuning.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../资料/jvm/05_GC and Tuning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../资料/jvm/jvm.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../资料/jvm/jvm.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\1378986\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1md3FfJCNaVcDkSELo6sNfuvoaP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootStarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myprojects.SpringbootStarterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2a243da-2fe1-4972-8011-6e8577b342f6" name="Default Changelist" comment="" />
+      <created>1609809538414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609809538414</updated>
+      <workItem from="1609809546137" duration="1082000" />
+      <workItem from="1609810752308" duration="65329000" />
+      <workItem from="1610066892358" duration="19914000" />
+      <workItem from="1610094298327" duration="1121000" />
+      <workItem from="1610327929241" duration="191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="837" y="419" key="#Custom_Plugin_Repositories" timestamp="1610094073119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="419" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1610094073119" />
+    <state x="740" y="270" key="#HTTP_Proxy" timestamp="1610094109418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="270" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1610094109418" />
+    <state x="864" y="372" width="444" height="522" key="#Notifications" timestamp="1610094299978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="864" y="372" width="444" height="522" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1610094299978" />
+    <state x="582" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1610094441420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610094441420" />
+    <state width="640" height="466" key="DebuggerActiveHint" timestamp="1610086526170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="640" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1610086526170" />
+    <state width="1376" height="237" key="GridCell.Tab.0.bottom" timestamp="1610090017204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610090017204" />
+    <state width="1376" height="237" key="GridCell.Tab.0.center" timestamp="1610090017204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="237" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610090017204" />
+    <state width="1376" height="237" key="GridCell.Tab.0.left" timestamp="1610090017204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="237" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610090017204" />
+    <state width="1376" height="237" key="GridCell.Tab.0.right" timestamp="1610090017204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="237" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610090017204" />
+    <state width="1376" height="237" key="GridCell.Tab.1.bottom" timestamp="1610090017205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="237" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610090017205" />
+    <state width="1376" height="237" key="GridCell.Tab.1.center" timestamp="1610090017204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="237" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610090017204" />
+    <state width="1376" height="237" key="GridCell.Tab.1.left" timestamp="1610090017204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="237" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610090017204" />
+    <state width="1376" height="237" key="GridCell.Tab.1.right" timestamp="1610090017204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="237" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610090017204" />
+    <state width="1376" height="257" key="GridCell.Tab.2.bottom" timestamp="1610089311226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="257" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610089311226" />
+    <state width="1376" height="257" key="GridCell.Tab.2.center" timestamp="1610089311226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="257" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610089311226" />
+    <state width="1376" height="257" key="GridCell.Tab.2.left" timestamp="1610089311226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="257" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610089311226" />
+    <state width="1376" height="257" key="GridCell.Tab.2.right" timestamp="1610089311226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1376" height="257" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610089311226" />
+    <state x="307" y="197" key="Maven.ArtifactSearchDialog" timestamp="1610094536946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="307" y="197" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610094536946" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1610094365050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610094365050" />
+    <state x="730" y="377" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610084913875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="377" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1610084913875" />
+    <state x="468" y="211" key="new project wizard" timestamp="1610328116646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="468" y="211" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1610328116646" />
+    <state x="577" y="294" key="refactoring.ChangeSignatureDialog" timestamp="1610094447888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="294" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610094447888" />
+    <state x="433" y="252" key="run.anything.popup" timestamp="1609998335103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="433" y="252" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609998335103" />
+    <state x="591" y="131" width="672" height="678" key="search.everywhere.popup" timestamp="1610087983202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="131" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610087983202" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.2/spring-context-5.3.2-sources.jar!/org/springframework/context/support/DefaultLifecycleProcessor.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="org.apache.catalina.core.StandardService" fieldName="connectors" />
+        <PinnedItemInfo typeName="org.springframework.util.StopWatch" fieldName="startTimeNanos" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="listenerBeans" />
+        <watch expression="primarySources" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

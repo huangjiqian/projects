@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: henryhuang
+Premain-Class: com.myprojects.jvm.agent.ObjectSizeAgent
+Main-Class: com.myprojects.jvm.agent.ObjectSizeAgent
+

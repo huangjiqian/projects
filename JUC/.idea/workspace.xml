@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="FundaAlgorithmics" />
+    </loaded-modules>
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77e9fcc8-9808-4abb-84fa-7ac405d0547f" name="Default Changelist" comment="JUC类的了解" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l2Q1BFKyo0LjIzNfw0SCLjd9Hf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RedisDemo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\projects\JUC" />
+      <recent name="C:\Java\projects\JUC\src\com\myprojects\juc\s09_ThreadPool" />
+      <recent name="C:\Java\projects\JUC\src\com\myprojects\juc\s07_RefTypeAndThreadLocal" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myprojects.juc.s10_FalseSharing" />
+      <recent name="com.myprojects.juc.s05_interview" />
+      <recent name="com.myprojects.juc.s07_RefTypeAndThreadLocal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\projects\ObjectSize" />
+      <recent name="C:\Java\projects\JUC" />
+      <recent name="C:\Java\projects\JUC\src\com\myprojects\juc\s07_RefTypeAndThreadLocal" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RedisDemoApplication">
+    <configuration name="RedisDemoApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.RedisDemoApplication" />
+      <module name="demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../RedisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.RedisDemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.configuration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myprojects.s03.T01_MergeSort" />
+      <module name="FundaAlgorithmics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myprojects.s03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T02_SmallSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myprojects.s03.T02_SmallSum" />
+      <module name="FundaAlgorithmics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myprojects.s03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T03_PartitionAndQuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myprojects.s03.T03_PartitionAndQuickSort" />
+      <module name="FundaAlgorithmics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myprojects.s03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RedisDemoApplication" />
+      <item itemvalue="Application.T01_MergeSort" />
+      <item itemvalue="Application.T02_SmallSum" />
+      <item itemvalue="Application.T03_PartitionAndQuickSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RedisDemoApplication" />
+        <item itemvalue="Application.RedisDemoApplication" />
+        <item itemvalue="Application.T03_PartitionAndQuickSort" />
+        <item itemvalue="Application.T02_SmallSum" />
+        <item itemvalue="Application.T01_MergeSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77e9fcc8-9808-4abb-84fa-7ac405d0547f" name="Default Changelist" comment="" />
+      <created>1606792488335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606792488335</updated>
+    </task>
+    <task id="LOCAL-00001" summary="JUC类的了解">
+      <created>1607310509851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607310509851</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JUC类的了解">
+      <created>1607319883962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607319883962</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JUC类的了解">
+      <created>1607335565197</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607335565197</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="JVM" />
+    <module name="ObjectSize" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="JUC类的了解" />
+    <option name="LAST_COMMIT_MESSAGE" value="JUC类的了解" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="268" key="#Inspections" timestamp="1607917361844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="268" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1607917361844" />
+    <state x="903" y="333" key="#Notifications" timestamp="1609316932910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="333" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1609316932910" />
+    <state x="631" y="83" key="#Project_Structure" timestamp="1608521701565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="83" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1608521701565" />
+    <state x="742" y="260" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607318847517">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="260" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607318847517" />
+    <state x="629" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607045943117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607045943117" />
+    <state x="638" y="311" key="#com.intellij.ide.util.MemberChooser" timestamp="1607397252050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="311" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607397252050" />
+    <state x="881" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607389612673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="881" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607389612673" />
+    <state x="559" y="400" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607318394772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="559" y="400" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607318394772" />
+    <state x="1362" y="492" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606812057752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1362" y="492" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1606812057752" />
+    <state width="403" height="466" key="DebuggerActiveHint" timestamp="1607494092272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="403" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1607494092272" />
+    <state x="1181" y="382" width="504" height="500" key="EnvironmentVariablesDialog" timestamp="1607318502461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1181" y="382" width="504" height="500" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607318502461" />
+    <state x="985" y="297" key="FileChooserDialogImpl" timestamp="1608529286671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="985" y="297" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608529286671" />
+    <state x="1453" y="614" key="Github.ShareDialog" timestamp="1607310072754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1453" y="614" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607310072754" />
+    <state width="1876" height="205" key="GridCell.Tab.0.bottom" timestamp="1608520539475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608520539475" />
+    <state width="1876" height="205" key="GridCell.Tab.0.center" timestamp="1608520539475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608520539475" />
+    <state width="1876" height="205" key="GridCell.Tab.0.left" timestamp="1608520539475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608520539475" />
+    <state width="1876" height="205" key="GridCell.Tab.0.right" timestamp="1608520539475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608520539475" />
+    <state width="1391" height="245" key="GridCell.Tab.1.bottom" timestamp="1607919880430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1391" height="245" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607919880430" />
+    <state width="1391" height="245" key="GridCell.Tab.1.center" timestamp="1607919880429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1391" height="245" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607919880429" />
+    <state width="1391" height="245" key="GridCell.Tab.1.left" timestamp="1607919880429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1391" height="245" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607919880429" />
+    <state width="1391" height="245" key="GridCell.Tab.1.right" timestamp="1607919880430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1391" height="245" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607919880430" />
+    <state x="683" y="279" key="IDE.errors.dialog" timestamp="1608381691698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="279" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608381691698" />
+    <state x="511" y="155" key="Maven.ArtifactSearchDialog" timestamp="1608382266816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="155" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608382266816" />
+    <state x="723" y="213" key="PlantUMLSettings" timestamp="1606898697741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="213" key="PlantUMLSettings/0.0.1920.1040@0.0.1920.1040" timestamp="1606898697741" />
+    <state x="744" y="296" key="SettingsEditor" timestamp="1609317011637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="296" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609317011637" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1606874888904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1606874888904" />
+    <state x="608" y="316" key="VCS.EditChangelistDialog" timestamp="1607308759481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="608" y="316" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607308759481" />
+    <state x="743" y="242" key="Vcs.Push.Dialog.v2" timestamp="1607335575979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607335575979" />
+    <state x="980" y="367" key="classpath-attribute-editor" timestamp="1607388903892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="980" y="367" key="classpath-attribute-editor/0.0.1920.1040@0.0.1920.1040" timestamp="1607388903892" />
+    <state x="333" y="250" width="1178" height="613" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607063000861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="333" y="250" width="1178" height="613" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607063000861" />
+    <state x="1392" y="508" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607426368887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1392" y="508" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607426368887" />
+    <state x="722" y="177" width="1115" height="679" key="new project wizard" timestamp="1608517081972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="177" width="1115" height="679" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608517081972" />
+    <state x="587" y="246" width="672" height="677" key="run.anything.popup" timestamp="1607319964149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="246" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607319964149" />
+    <state x="702" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1607996787119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607996787119" />
+    <state x="825" y="448" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1607916397736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="825" y="448" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607916397736" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/myprojects/juc/s06_resource/T01_AQS.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/myprojects/juc/s08_Container/Map/T01_Hashtable.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.myprojects.s02.T01_ReverseLinkedList$Node" memberName="value" />
+        <PinnedItemInfo parentTag="com.myprojects.s02.T01_ReverseLinkedList$Node" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
